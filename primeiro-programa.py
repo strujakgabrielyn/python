@@ -40,4 +40,4 @@ f = 'FIM DO JOGO'
 print('\033[1;35m{:>40}\033[m'.format(f))
 print('︾'*50)
 
-#mozinhoevzy
+mozinhoevzy
